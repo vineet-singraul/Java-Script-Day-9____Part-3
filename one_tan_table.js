@@ -7,3 +7,4 @@ while(i<10)
     console.log(`${num} * ${i} = ${num * i}`);
     console.log(num + " * " + i + " = " + (num * i));
 }
+console.log("Hello How Are You");
